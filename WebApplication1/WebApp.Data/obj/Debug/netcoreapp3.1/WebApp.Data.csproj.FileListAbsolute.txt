@@ -1,0 +1,12 @@
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\bin\Debug\netcoreapp3.1\WebApp.Data.deps.json
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\bin\Debug\netcoreapp3.1\WebApp.Data.dll
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\bin\Debug\netcoreapp3.1\WebApp.Data.pdb
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\bin\Debug\netcoreapp3.1\WebApp.Core.dll
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\bin\Debug\netcoreapp3.1\WebApp.Core.pdb
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\obj\Debug\netcoreapp3.1\WebApp.Data.csprojAssemblyReference.cache
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\obj\Debug\netcoreapp3.1\WebApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\obj\Debug\netcoreapp3.1\WebApp.Data.AssemblyInfoInputs.cache
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\obj\Debug\netcoreapp3.1\WebApp.Data.AssemblyInfo.cs
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\obj\Debug\netcoreapp3.1\WebApp.Data.csproj.CopyComplete
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\obj\Debug\netcoreapp3.1\WebApp.Data.dll
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Data\obj\Debug\netcoreapp3.1\WebApp.Data.pdb
