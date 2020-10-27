@@ -113,3 +113,5 @@ C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fu
 C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApp.Data.dll
 C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApp.Core.pdb
 C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApp.Data.pdb
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
