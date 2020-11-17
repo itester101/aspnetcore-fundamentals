@@ -155,3 +155,6 @@ C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fu
 C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
 C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs

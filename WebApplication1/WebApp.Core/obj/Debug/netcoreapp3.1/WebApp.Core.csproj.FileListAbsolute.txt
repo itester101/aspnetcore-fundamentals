@@ -6,4 +6,3 @@ C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fu
 C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.AssemblyInfo.cs
 C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.dll
 C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.pdb
-C:\Users\Nogalscy\Documents\Testowanie i programowanie\Programming\aspnetcore-fundamentals\WebApplication1\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.csprojAssemblyReference.cache

@@ -55,6 +55,11 @@ namespace WebApp.Data
             return restaurants.SingleOrDefault(r => r.Id == id);
         }
 
+        public int GetCountOfRestaurants()
+        {
+            return restaurants.Count();
+        }
+
         public IEnumerable<Restaurant> GetRestuarantsByName(string name = null)
         {
             return GetAll().Where(r => string.IsNullOrEmpty(name) || r.Name.StartsWith(name));
